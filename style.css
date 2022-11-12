@@ -3,3 +3,32 @@ body {
   height: 100%;
   margin: 0;
 }
+img {
+  padding-left: 400px;
+  
+
+}
+h1{
+text-align: center;
+}
+nav{
+  text-align: center;
+  background-color: grey;
+
+
+}
+p{
+  text-align: center;
+  padding-left: 400px;
+  padding-right: 400px;
+}
+#details{
+ float: left;
+ text-orientation: horizontal;
+}
+figcaption{
+  padding-left: 400px;
+}
+h3{
+  padding-left:400px;
+}
